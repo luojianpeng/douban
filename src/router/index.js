@@ -32,6 +32,7 @@ export default new Router({
       path: '/Broadcast',
       name: 'Broadcast',
       component: Broadcast
+
     },
     {
       path: '/Group',
